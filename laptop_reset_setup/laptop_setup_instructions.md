@@ -66,7 +66,7 @@ Follow the links to download each program.
 
 - **[VSCode](https://code.visualstudio.com/)** for code editing, plus any extensions you want to add.
 - **[IntelliJ](https://www.jetbrains.com/idea/download/#section=mac)** for Java editing. Make sure you select Community Edition (unless you want to pay for it) and the Apple Silicon version from the dropdown.
-- **[Java]**(https://www.oracle.com/java/technologies/downloads/#java17). Make sure you are downloading Java 17, have selected the MacOS tab and use the `Arm 64DMG Installer`. Make sure you click on the downloaded installer so that Java 17 is installed as expected in your machine.
+- **[Java](https://www.oracle.com/java/technologies/downloads/#java17)**. Make sure you are downloading Java 17, have selected the MacOS tab and use the `Arm 64DMG Installer`. Make sure you click on the downloaded installer so that Java 17 is installed as expected in your machine.
 - **[Postgres.app](https://postgresapp.com/)** to get the PostgreSQL database tools.
 - **[Postman](https://www.postman.com/)** for querying APIs. You'll need to create an account, but it's free.
 - **[Chrome](https://www.google.co.uk/chrome)** for internet access. You'll also need the [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) extension.
