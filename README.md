@@ -15,11 +15,13 @@
     - Data Structures (Arrays & ArrayLists) - (recording: https://brightnetwork.egnyte.com/dl/f9TXOobFCC)
     - Loops & ArrayLists - (recording: https://brightnetwork.egnyte.com/dl/kN2Jhl1dC1)
     - **Lab:** ArrayLists and Loops
-- **Day 2(Wed)**: Classes
+- **Day 2(Wed)**: 
+    - Classes
 - **Day 3(Thurs)** : Testing and Multiple Classes
     - Testing (recording: https://brightnetwork.egnyte.com/dl/kc0bOVKB8A)
     - TDD (recording: https://brightnetwork.egnyte.com/dl/mOJWKm5jk4)
     - Multiple Classes - Chicken Farm (recording: https://brightnetwork.egnyte.com/dl/4EzroQbqI3)
+    - **Lab:** Art Gallery
 
 ## Week 3 - Java
 
