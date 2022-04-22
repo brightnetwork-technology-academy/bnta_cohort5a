@@ -22,6 +22,7 @@
     - TDD (recording: https://brightnetwork.egnyte.com/dl/mOJWKm5jk4)
     - Multiple Classes - Chicken Farm (recording: https://brightnetwork.egnyte.com/dl/4EzroQbqI3)
     - **Lab:** Art Gallery
+    - Some new stuff
 
 ## Week 3 - Java
 
