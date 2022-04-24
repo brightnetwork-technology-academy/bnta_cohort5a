@@ -15,7 +15,6 @@ Make sure you create a separate file for each class and a separate test file for
 
  ## Extensions
  - When an `Artwork` is purchased, it should transfer from the `Gallery` collection to the `Customer` collection.
- - When creating an `nft` for a piece of `Artwork`, ensure that token has not been used for any other item (you may need to call a method in your constructor!).
  - Give the `Gallery` the ability to calculate the value of its collection with a `stock_take()` method.
 
  
