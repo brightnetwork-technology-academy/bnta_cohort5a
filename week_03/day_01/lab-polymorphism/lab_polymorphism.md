@@ -1,5 +1,12 @@
 # Java Polymorphism Exercises
-We've learned about polymorphism in class, now put that knowledge to use! Please aim to complete points 1 - 4 today (Monday 25th April) and points 5 - 7 tomorrow afternoon (Tuesday 26th April).
+We've learned about polymorphism in class, now put that knowledge to use! Please aim to complete points 1 - 4 today (Monday 25th April) and points 5 - 7 tomorrow afternoon (Tuesday 26th April). 
+
+**Please write tests for all your concrete classes so we can be sure that they work. Commit regularly and often.**
+
+This a solo lab, so you can manage your time in a way that works for you. 
+Please note that trainers will be available for questions during working hours only. 
+You will be asked to submit your code at the end of the day on Tuesday.
+We will invite a small, random selection of people to demo their code on Wednesday morning.
 
 ## Monday
 
