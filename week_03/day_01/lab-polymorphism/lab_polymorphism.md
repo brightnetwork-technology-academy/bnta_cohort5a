@@ -2,7 +2,7 @@
 We've learned about polymorphism in class, now put that knowledge to use! Please aim to complete points 1 - 4 today (Monday 25th April) and points 5 - 7 tomorrow afternoon (Tuesday 26th April).
 
 ## Monday
-***
+
 ### 1. Please create a new project, with multiple classes
 Use your own concept - don't simply duplicate the examples used in the lessons, or on the textbook
 
@@ -14,7 +14,7 @@ Your example doesn't have to be real-world, but it should have at least some int
 ### 4. Create a collection which accepts objects of either of those 2 types
 
 ## Tuesday
-***
+
 ### 5. Implement at least 1 method overload
 
 ### 6: Create your own enum to represent a set of constants
