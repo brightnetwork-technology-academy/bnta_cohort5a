@@ -9,7 +9,7 @@ Make sure you create a separate file for each class and a separate test file for
 ## MVP
  - A `Gallery` should have a `name`, a `till` and a collection of `Artwork`.
  - A piece of `Artwork` should have a `title`, an `artist`, a `price` and an `nft`.
- - An `Artist` should have a `name` and a collection of `artwork` (i.e a list of artwork they have personally made).
+ - An `Artist` should have a `name`.
  - A `Customer` should have a `name` and a `wallet`.
  - A `Customer` should be able to buy an `Artwork` from the `Gallery`, reducing the money in their `wallet` and increasing the money in the `Gallery` till. 
 
@@ -18,4 +18,6 @@ Make sure you create a separate file for each class and a separate test file for
  - Give the `Gallery` the ability to calculate the value of its collection with a `stock_take()` method.
 
  
-Please remember to git commit and push to GitHub regularly.
+Please remember to git commit and push to GitHub regularly (choose one person to host the remote version of your code and use LiveShare to take turns driving/navigating).
+
+We would like you to submit this lab (use the submission form linked at the top of your classroom Slack). Even if you have worked on this lab as as pair/group, please individually submit, both using the same GitHub repo link on the form. 
