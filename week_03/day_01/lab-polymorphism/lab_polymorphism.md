@@ -11,7 +11,7 @@ We will invite a small, random selection of people to demo their code on Wednesd
 ## Monday
 
 ### 1. Please create a new project, with multiple classes
-Use your own concept - don't simply duplicate the examples used in the lessons, or on the textbook
+Use your own concept - don't simply duplicate the examples used in the lessons, or on the textbook. It is really important that you do not skip the planning and diagramming stage!
 
 ### 2. Create an abstract class
 Your example doesn't have to be real-world, but it should have at least some internal logic to it
