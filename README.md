@@ -22,9 +22,14 @@
     - TDD (recording: https://brightnetwork.egnyte.com/dl/mOJWKm5jk4)
     - Multiple Classes - Chicken Farm (recording: https://brightnetwork.egnyte.com/dl/4EzroQbqI3)
     - **Lab:** Art Gallery
-    - Some new stuff
 
 ## Week 3 - Java
+- **Day 1**: Polymorphism, Inheritance, Abstract Classes, Method Overloading
+    - **Lab**: Implement some inheritance
+- **Day 2**: Packages, Interfaces, SOLID Principles
+    - **Lab**: week3/day1 lab continued
+- **Day 3**: Generics, Enums
+- **Day 4**: Stacks, Queues, Algorithms
 
 
 ## Week 4 - Polymorphism, Inheritance, Composition
