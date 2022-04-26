@@ -29,9 +29,9 @@
 - **Day 1**: Polymorphism, Inheritance, Abstract Classes, Method Overloading
     - Abstract Classes & Inheritance (recording: https://brightnetwork.egnyte.com/dl/x2sO75gS9Q)
     - Abstract Methods and Overloading (recording: https://brightnetwork.egnyte.com/dl/sn4L2kt2oW)
-    - **Lab**: Implement some inheritance
+    - **Lab**: [Implement some inheritance](https://github.com/brightnetwork-technology-academy/bnta_cohort5a/tree/main/week_03/day_01/lab-polymorphism)
 - **Day 2**: Packages, Interfaces, SOLID Principles
-    - **Lab**: week3/day1 lab continued
+    - **Lab**: [week3/day1 lab continued](https://github.com/brightnetwork-technology-academy/bnta_cohort5a/tree/main/week_03/day_01/lab-polymorphism)
 - **Day 3**: Generics, Enums
 - **Day 4**: Stacks, Queues, Algorithms
 
