@@ -21,7 +21,7 @@
     - Testing (recording: https://brightnetwork.egnyte.com/dl/kc0bOVKB8A)
     - TDD (recording: https://brightnetwork.egnyte.com/dl/mOJWKm5jk4)
     - Multiple Classes - Chicken Farm (recording: https://brightnetwork.egnyte.com/dl/4EzroQbqI3)
-    - **Lab:** Art Gallery
+    - **Lab:** [Art Gallery](https://github.com/brightnetwork-technology-academy/bnta_cohort5a/tree/main/week_02/day_03/lab-multiple-classes-art-gallery)
 - **Day 4 (Fri)**
     - Recap/Review of week (recording: https://brightnetwork.egnyte.com/dl/F1jHpEJvc0)
 
