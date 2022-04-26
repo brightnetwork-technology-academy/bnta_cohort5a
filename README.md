@@ -25,6 +25,8 @@
 
 ## Week 3 - Java
 - **Day 1**: Polymorphism, Inheritance, Abstract Classes, Method Overloading
+    - Abstract Classes & Inheritance (recording: https://brightnetwork.egnyte.com/dl/x2sO75gS9Q)
+    - Abstract Methods and Overloading (recording: https://brightnetwork.egnyte.com/dl/sn4L2kt2oW)
     - **Lab**: Implement some inheritance
 - **Day 2**: Packages, Interfaces, SOLID Principles
     - **Lab**: week3/day1 lab continued
