@@ -43,6 +43,7 @@
 - **Day 1(Tues):** Streams and Lambdas
     - Intro to Functional Programming, a reminder on Interfaces (recording: https://brightnetwork.egnyte.com/dl/l6M9kVENAg)
     - Lambdas and Streams (recording: https://brightnetwork.egnyte.com/dl/QuT8pTAML6)
+    - **Lab**: [Lambdas & Streams](https://github.com/brightnetwork-technology-academy/bnta_cohort5a/tree/main/week_04/day_01/lab-streamapi-CORRECT/start_code_lab_stream_api)
 
 ## Week 5 - SQL
 
