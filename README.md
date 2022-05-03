@@ -40,6 +40,9 @@
 
 ## Week 4 - Polymorphism, Inheritance, Composition
 - closed Monday 2 May 2022
+- **Day 1(Tues):** Streams and Lambdas
+    - Intro to Functional Programming, a reminder on Interfaces (recording: TBC)
+    - Lambdas and Streams (recording: https://brightnetwork.egnyte.com/dl/QuT8pTAML6)
 
 ## Week 5 - SQL
 
