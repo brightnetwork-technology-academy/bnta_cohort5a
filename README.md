@@ -40,12 +40,19 @@
 
 ## Week 4 - Polymorphism, Inheritance, Composition
 - closed Monday 2 May 2022
-- **Day 1(Tues):** Streams and Lambdas
+- **Day 1 (Tues):** Streams and Lambdas
     - Intro to Functional Programming, a reminder on Interfaces (recording: https://brightnetwork.egnyte.com/dl/l6M9kVENAg)
     - Lambdas and Streams (recording: https://brightnetwork.egnyte.com/dl/QuT8pTAML6)
     - **Lab**: [Lambdas & Streams](https://github.com/brightnetwork-technology-academy/bnta_cohort5a/tree/main/week_04/day_01/lab-streamapi-CORRECT/start_code_lab_stream_api)
+- **Day 2 (Wed):** Scanner Input, Errors and Exceptions, Working with Files
+- **Day 3 (Thur):** Airline Lab
+- **Day 4 (Fri):** Airline Lab Demo
 
 ## Week 5 - SQL
+- **Day 1:** Intro to SQL, ERDs, Advanced Select
+- **Day 2:** Relationships & Joins
+- **Day 3:** Common Table Expressions, Window Functions
+- **Day 4:** HTTP, APIs, Intro to Spring Boot
 
 ## Week 6 - Spring
 
