@@ -38,7 +38,7 @@
 - **Day 4**: Stacks, Queues, Algorithms
 
 
-## Week 4 - Polymorphism, Inheritance, Composition
+## Week 4 (w/b 3 May) - Polymorphism, Inheritance, Composition
 - closed Monday 2 May 2022
 - **Day 1 (Tues):** Streams and Lambdas
     - Intro to Functional Programming, a reminder on Interfaces (recording: https://brightnetwork.egnyte.com/dl/l6M9kVENAg)
@@ -48,12 +48,12 @@
 - **Day 3 (Thur):** Airline Lab
 - **Day 4 (Fri):** Airline Lab Demo
 
-## Week 5 - SQL
+## Week 5 (w/b 9th May) - SQL
 - **Day 1:** Intro to SQL, ERDs, Advanced Select
     - Intro to SQL
-    - ERDs
-    - Advanced Select (recording: coming soon!)
-    - **Lab**: [Football](week_05/day_01/task01_football_matches/) (hand-out recording: coming soon!)
+    - ERDs (recording: https://brightnetwork.egnyte.com/dl/FMGsJTZbK2)
+    - Advanced Select (recording: https://brightnetwork.egnyte.com/dl/ISO3f5uSW1)
+    - **Lab**: [Football](week_05/day_01/task01_football_matches/) (hand-out recording: https://brightnetwork.egnyte.com/dl/QjIBVPOtJU)
 - **Day 2:** Relationships & Joins
 - **Day 3:** Common Table Expressions, Window Functions
 - **Day 4:** HTTP, APIs, Intro to Spring Boot
