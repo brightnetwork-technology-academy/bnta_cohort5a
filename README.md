@@ -53,7 +53,7 @@
     - Intro to SQL
     - ERDs
     - Advanced Select (recording: coming soon!)
-    - **Lab**: [Football](week_05/day_01/task01_football_matches/) (hand-our recording: coming soon!)
+    - **Lab**: [Football](week_05/day_01/task01_football_matches/) (hand-out recording: coming soon!)
 - **Day 2:** Relationships & Joins
 - **Day 3:** Common Table Expressions, Window Functions
 - **Day 4:** HTTP, APIs, Intro to Spring Boot
