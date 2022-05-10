@@ -13,7 +13,7 @@ public class Customer {
         this.customerArtwork = new ArrayList<>();
     }
 
-    public boolean canBuy(Artwork artwork){
+    public boolean canBuy(Artwork artwork){ //customer1.canBuy(artwork)
         if( artwork.getPrice() <= this.wallet){
             return true;
         }
