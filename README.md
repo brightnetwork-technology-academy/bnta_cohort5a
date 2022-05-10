@@ -55,6 +55,9 @@
     - Advanced Select (recording: https://brightnetwork.egnyte.com/dl/ISO3f5uSW1)
     - **Lab**: [Football](week_05/day_01/task01_football_matches/) (hand-out recording: https://brightnetwork.egnyte.com/dl/QjIBVPOtJU)
 - **Day 2:** Relationships & Joins
+    - Relationships
+    - Joins
+    - **Lab**: [Safari](week_05/day_02/safari_lab)
 - **Day 3:** Common Table Expressions, Window Functions
 - **Day 4:** HTTP, APIs, Intro to Spring Boot
 
