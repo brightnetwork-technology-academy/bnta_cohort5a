@@ -17,8 +17,10 @@ public class Gallery {
             customer.buyArtwork(artwork);
             this.artworks.remove(artwork);
             setTill(this.till + artwork.getPrice());
+            //this.till = this.till + artwork.getPrice();
         }
     }
+
 
     public double calculateArtworkValue(){
         double total = 0;

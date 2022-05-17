@@ -5,23 +5,11 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
-
-
-
 public class Estate {
-
-
     private Long id;
-
-
     private String name;
-
-
     private String country;
-
-
     private List<Chocolate> chocolates;
-
     public Estate(String name, String country) {
         this.name = name;
         this.country = country;

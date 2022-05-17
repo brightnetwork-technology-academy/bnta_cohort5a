@@ -4,16 +4,9 @@ import javax.persistence.*;
 
 
 public class Chocolate {
-
-
     private Long id;
-
-
     private String name;
-
     private int cocoaPercentage;
-
-
     private Estate estate;
 
     public Chocolate(String name, int cocoaPercentage, Estate estate) {
@@ -21,7 +14,6 @@ public class Chocolate {
         this.cocoaPercentage = cocoaPercentage;
         this.estate = estate;
     }
-
     public Chocolate() {
     }
 
