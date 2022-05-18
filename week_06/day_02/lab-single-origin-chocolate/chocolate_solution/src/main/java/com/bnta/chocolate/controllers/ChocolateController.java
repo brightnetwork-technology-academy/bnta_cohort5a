@@ -39,9 +39,9 @@ public class ChocolateController {
     }
 
     @PostMapping
-    public ResponseEntity<List<Chocolate>> postChocolate(@RequestBody Chocolate chocolate){
+    public ResponseEntity<Chocolate> postChocolate(@RequestBody Chocolate chocolate){
         chocolateRepository.save(chocolate);
-        return new ResponseEntity<>(chocolateRepository.findAll(), HttpStatus.CREATED);
+        return new ResponseEntity<>(chocolate, HttpStatus.CREATED);
     }
 
 
