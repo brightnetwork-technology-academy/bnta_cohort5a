@@ -61,7 +61,7 @@
 - **Day 3:** Common Table Expressions, Window Functions
 - **Day 4:** HTTP, APIs, Intro to Spring Boot
 
-## Week 6 - Spring
+## Week 6 (w/b 16th May) - Spring 
 - **Day 1**: Spring Boot with REST API part II
 - **Day 2**: 
     - RESTful routes
@@ -76,9 +76,25 @@
     - Positive Teamwork
     - Git Branches
 
-## Week 7 - Backend Projects
+## Week 7 (w/b 23rd May) - Backend Projects
 
+*The schedule below may be subject to change*
+## Week 8 (w/b 30th May) - Intro to Javascript
+- **Day 1**: Intro to JS, Control Flow, Arrays and Objects
+- **Day 2**: Loops, Scope, Functions, Testing
+- **Day 3**: Constructors and Prototypes, Higher Order Functions, UX
 
+- *closed Thursday 2nd June 2022*
+- *closed Friday 3rd June 2022*
+
+## Week 9 (w/b 6th June) - Javascript
+- **Day 1**: HTML, Accessibility
+- **Day 2**: CSS
+- **Day 3**: The DOM, JS Events
+- **Day 4**: Promises, Fetch
+- **Day 5**: UX, recap & review
+
+## Week 10 (w/b 13th June) - React
 
 
  Labs, exercises and solutions are added to this repo as we go through the course.
