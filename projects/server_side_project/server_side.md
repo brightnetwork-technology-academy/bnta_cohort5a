@@ -1,4 +1,7 @@
 # Server-Side Project
+### Due date: Thursday 26th May, 12 noon 
+(submit via submission form in classroom Slack channel)
+### Presentation date: Friday 27th May, 10am
 
 In this project your team will be building a back-end application to consolidate the topics covered so far in the course. You will have one week to research, plan and develop your application before you have the opportunity to present your work to your colleagues, instructors and clients.
 
