@@ -62,8 +62,22 @@
 - **Day 4:** HTTP, APIs, Intro to Spring Boot
 
 ## Week 6 - Spring
+- **Day 1**: Spring Boot with REST API part II
+- **Day 2**: 
+    - RESTful routes
+    - Connecting to a database using Hibernate (One to Many)
+    - **Lab**: Single Origin Chocolate
+- **Day 3**: 
+    - Connecting to a database using Hibernate (Many to Many)
+    - **Lab**: Make your own API (choose a relationship (one-to-many OR many-to-many))
+- **Day 4**: **Lab** continued from previous day
+- **Day 5**:
+    - Agile
+    - Positive Teamwork
+    - Git Branches
 
 ## Week 7 - Backend Projects
+
 
 
 
