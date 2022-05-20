@@ -33,6 +33,8 @@ You can work on the project outside of normal working hours, but there is no exp
 
 Trainers will be available for help during working hours - post questions in the tech-questions channel. Please try to give a general idea of what the problem is. Bear in mind that the trainers won't be familiar with your code so be prepared to explain what you're trying to do, what's going wrong and what you've tried so far to fix the problem. This is especially important if you're introducing something we haven't seen in the course so far.
 
+**Please commit often!** Sensible, small commits with meaningful commit messages. We would expect at least **50 commits** for a project of this size.
+
 ## Presentation
 
 The project will culminate in a presentation to the rest of the cohort along with representatives from some clients. Each group will have **10 minutes** to present their work plus some time for questions from the audience. Your presentation should include:
