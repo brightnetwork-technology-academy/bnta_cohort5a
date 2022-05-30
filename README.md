@@ -81,6 +81,7 @@
 *The schedule below may be subject to change*
 ## Week 8 (w/b 30th May) - Intro to Javascript
 - **Day 1**: Intro to JS, Control Flow, Arrays and Objects
+    - **Lab**: [Arrays & Objects](week_08/day_01/lab_arrays_objects/)
 - **Day 2**: Loops, Scope, Functions, Testing
 - **Day 3**: Constructors and Prototypes, Higher Order Functions, UX
 
