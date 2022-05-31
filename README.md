@@ -80,9 +80,10 @@
 
 *The schedule below may be subject to change*
 ## Week 8 (w/b 30th May) - Intro to Javascript
-- **Day 1**: Intro to JS, Control Flow, Arrays and Objects
+- **Day 1**: Intro to JS, Control Flow, Arrays and Objects, Loops
     - **Lab**: [Arrays & Objects](week_08/day_01/lab_arrays_objects/)
-- **Day 2**: Loops, Scope, Functions, Testing
+- **Day 2**: Scope, Functions, Testing
+    - [Scope](https://brightnetwork-technology-academy.github.io/curriculum/javascript/05_scope/)
 - **Day 3**: Constructors and Prototypes, Higher Order Functions, UX
 
 - *closed Thursday 2nd June 2022*
