@@ -84,6 +84,9 @@
     - **Lab**: [Arrays & Objects](week_08/day_01/lab_arrays_objects/)
 - **Day 2**: Scope, Functions, Testing
     - [Scope](https://brightnetwork-technology-academy.github.io/curriculum/javascript/05_scope/)
+    - [Functions](https://brightnetwork-technology-academy.github.io/curriculum/javascript/06_functions/)
+    - [Testing](https://brightnetwork-technology-academy.github.io/curriculum/javascript/testing/testing/)
+    - **Lab**: [Calculator](https://github.com/brightnetwork-technology-academy/bnta_cohort5a/tree/main/week_08/day_02/lab_jest_testing_calculator)
 - **Day 3**: Constructors and Prototypes, Higher Order Functions, UX
 
 - *closed Thursday 2nd June 2022*
