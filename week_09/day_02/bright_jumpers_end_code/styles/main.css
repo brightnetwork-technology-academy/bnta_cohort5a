@@ -1,0 +1,119 @@
+/* 
+Cascading order: 
+1. Inline
+2. Style element (in head)
+3. External sheet
+
+Speificity
+*/
+
+
+
+/* this is an immediate descendant selector */
+/* div > nav {
+    background-color: pink;
+} */
+
+/* div > li { */
+/* div  li {
+    background-color: orange;
+}
+
+body {
+    background-color:brown;
+}  */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #999;
+}
+
+body div#container {
+   /* background-color: aqua; */
+   margin-left: auto;
+   margin-right: auto;
+   width: 95%;
+   padding-left: 1rem;
+   padding-right: 1rem;
+   /* flex is 1D layout system in html */
+   display: flex;
+   flex-direction: column;
+}
+
+div header#header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #555;
+}
+
+nav#main-menu > ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav#main-menu > ul > li {
+    list-style: none;
+}
+
+nav#main-menu > ul > li > a {
+    text-decoration: none;
+    font-size: 1.2em;
+    display: block;
+    padding: 1rem;
+    color: white;
+    background-color: #444;
+}
+
+nav#main-menu > ul > li > a:hover{
+    background-color: rgb(253, 181, 241);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    /* grid-template-columns: 25% 25% 25% 15%; */
+}
+
+/* section.grid-item { */
+.grid-item { 
+    background-color: #888;
+    text-align: center;
+}
+
+.grid-item a {
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+}
+
+/* media queries allow custom rules for
+specific viewing scenario */
+
+@media all and (max-width: 700px) {
+    nav#main-menu > ul {
+        flex-direction: column;
+    }
+
+    .grid-container {
+        grid-template-columns: 100%;
+        /* grid-template-columns: 25% 25% 25% 15%; */
+    }
+}
+
+@media all and (max-width: 1000px) {
+    .grid-container {
+        grid-template-columns: 50% 50%;
+        /* grid-template-columns: 25% 25% 25% 15%; */
+    }
+}
+
+
+/* @media print {
+    img {
+        border: 4 px dotted red;
+    }
+} */
+
