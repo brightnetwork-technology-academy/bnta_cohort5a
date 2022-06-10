@@ -96,7 +96,9 @@
 - **Day 1**: HTML, Accessibility
 - **Day 2**: CSS
 - **Day 3**: The DOM, JS Events
+    - [the DOM, JS Events](https://brightnetwork.egnyte.com/dl/4NHNfZGG34)
 - **Day 4**: Promises, Fetch
+    - [Promises & Fetch](https://brightnetwork.egnyte.com/dl/PysfBviSP2)
 - **Day 5**: UX, recap & review
 
 ## Week 10 (w/b 13th June) - React
