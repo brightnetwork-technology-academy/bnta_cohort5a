@@ -12,12 +12,12 @@ In this exercise we will practise using `create-react-app` to make our own singl
 ### Part 1: Rendering Recipes
 We would like you to create a React app to display a recipe list.
 
-- Use `create-react-app` generate a React app
-- create a compononent called `RecipeList.js`, rendered by `App.js`
-- Using your own, or the sample data below, render the list recipes to your app
+- Use `npx create-react-app my_app_name` to generate a React app
+- create a component called `RecipeList.js`, rendered by `App.js`
+- Using the sample data below (or your own!), display a list of recipes in your app.
 
 
-```json
+```js
 
 cakes = [
     {
