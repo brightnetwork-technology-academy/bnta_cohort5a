@@ -107,6 +107,7 @@
     - [Props](https://brightnetwork-technology-academy.github.io/curriculum/react/03_props/props/)
     - [State](https://brightnetwork-technology-academy.github.io/curriculum/react/01_intro_to_state/01_intro_to_state/)
     - [Forms](https://brightnetwork-technology-academy.github.io/curriculum/react/react_forms_notes/)
+    - **Lab**: [Bright Bakery (with form)](week_10/day_02/task_react_forms/)
 - **Day 3**: Hooks
 
  Labs, exercises and solutions are added to this repo as we go through the course.
