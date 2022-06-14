@@ -104,6 +104,9 @@
 ## Week 10 (w/b 13th June) - React
 - **Day 1**: Intro to React and Components
 - **Day 2**: Props, State, Forms, Class Components
+    - [Props](https://brightnetwork-technology-academy.github.io/curriculum/react/03_props/props/)
+    - [State](https://brightnetwork-technology-academy.github.io/curriculum/react/01_intro_to_state/01_intro_to_state/)
+    - [Forms](https://brightnetwork-technology-academy.github.io/curriculum/react/react_forms_notes/)
 - **Day 3**: Hooks
 
  Labs, exercises and solutions are added to this repo as we go through the course.
