@@ -102,7 +102,9 @@
 - **Day 5**: UX, recap & review
 
 ## Week 10 (w/b 13th June) - React
-
+- **Day 1**: Intro to React and Components
+- **Day 2**: Props, State, Forms, Class Components
+- **Day 3**: Hooks
 
  Labs, exercises and solutions are added to this repo as we go through the course.
 
