@@ -1,0 +1,15 @@
+{
+  "name": "promises_async_await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetches.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.5"
+  },
+  "type":"module"
+}
