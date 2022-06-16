@@ -44,5 +44,11 @@ public class ChocolateController {
         return new ResponseEntity<>(chocolate, HttpStatus.CREATED);
     }
 
+    @DeleteMapping(value = "{id}")
+    public ResponseEntity<Long> deleteChocolate(@PathVariable Long id){
+        chocolateRepository.deleteById(id);
+        return new ResponseEntity<>(id, HttpStatus.NO_CONTENT);
+    }
+
 
 }

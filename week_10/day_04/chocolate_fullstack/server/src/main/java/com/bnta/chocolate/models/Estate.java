@@ -22,14 +22,14 @@ public class Estate {
     @Column
     private String country;
 
-    @JsonIgnoreProperties({"estate"})
-    @OneToMany(mappedBy = "estate")
-    private List<Chocolate> chocolates;
+//    @JsonIgnoreProperties({"estate"})
+//    @OneToMany(mappedBy = "estate")
+//    private List<Chocolate> chocolates;
 
     public Estate(String name, String country) {
         this.name = name;
         this.country = country;
-        this.chocolates = new ArrayList<Chocolate>();
+//        this.chocolates = new ArrayList<Chocolate>();
     }
 
     public Estate() {
@@ -59,11 +59,11 @@ public class Estate {
         this.name = name;
     }
 
-    public List<Chocolate> getChocolates() {
-        return chocolates;
-    }
-
-    public void setChocolates(List<Chocolate> chocolates) {
-        this.chocolates = chocolates;
-    }
+//    public List<Chocolate> getChocolates() {
+//        return chocolates;
+//    }
+//
+//    public void setChocolates(List<Chocolate> chocolates) {
+//        this.chocolates = chocolates;
+//    }
 }
