@@ -112,8 +112,8 @@
 - **Day 4**: Fullstack - POST & DELETE
     - [Chocolate Fullstack End Code (post and delete only)](week_10/day_04/chocolate_fullstack/)
     - [Chocolate post & delete recording - coming soon]
--**Day 5**: Router, PUT, Projects
--**FRONTEND PROJECTS!**
+- **Day 5**: Router, PUT, Projects
+- **FRONTEND PROJECTS!**
     - [Frontend (aka Client-side) Project Brief](https://brightnetwork-technology-academy.github.io/curriculum/projects/client-side/)
     - [CORS config](https://brightnetwork-technology-academy.github.io/curriculum/projects/cors/)
 
