@@ -109,6 +109,13 @@
     - [Forms](https://brightnetwork-technology-academy.github.io/curriculum/react/react_forms_notes/)
     - **Lab**: [Bright Bakery (with form)](week_10/day_02/task_react_forms/)
 - **Day 3**: Hooks
+- **Day 4**: Fullstack - POST & DELETE
+    - [Chocolate Fullstack End Code (post and delete only)](week_10/day_04/chocolate_fullstack/)
+    - [Chocolate post & delete recording - coming soon]
+-**Day 5**: Router, PUT, Projects
+-**FRONTEND PROJECTS!**
+    - [Frontend (aka Client-side) Project Brief](https://brightnetwork-technology-academy.github.io/curriculum/projects/client-side/)
+    - [CORS config](https://brightnetwork-technology-academy.github.io/curriculum/projects/cors/)
 
  Labs, exercises and solutions are added to this repo as we go through the course.
 
