@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.App ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.App ul li {
+  list-style: none;
+}
